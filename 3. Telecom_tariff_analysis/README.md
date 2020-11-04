@@ -10,7 +10,7 @@
 
 ## Примененные методы в проекте
 - визуализация посредством библиотеки Matplotlib, Plotly
-- проверка гипотез посредством t-test
+- проверка гипотез посредством t-критерия Стьюдента (t-test)
 
 [Ссылка на Jupyter notebook](https://nbviewer.jupyter.org/github/makoloff/yandex_projects_2020/blob/master/3.%20Telecom_tariff_analysis/3.%20Telecom_tariff_analysis_.ipynb)
 
