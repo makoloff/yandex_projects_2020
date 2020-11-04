@@ -18,5 +18,6 @@
 - проверка гипотез о нормальности распределения посредством критерия Шапиро-Уилка
 - проверка гипотез "сдвига" посредством непараметрического критерия Манна-Уитни
 - библиотека визуализации Matplotlib
+- библиотека SciPy
 
 [Ссылка на Jupyter notebook](https://nbviewer.jupyter.org/github/makoloff/yandex_projects_2020/blob/master/7.%20AB_Test_Analysis.Hypothesis_Priority/7.%20AB_Test_Analysis.Hypothesis_Priority_.ipynb)
