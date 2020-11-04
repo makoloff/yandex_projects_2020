@@ -11,4 +11,4 @@
 - корреляционный анализ
 - визуализация посредством библиотеки Matplotlib
 
-[Ссылка на Jupyter notebook](https://nbviewer.jupyter.org/github/makoloff/yandex_projects_2020/blob/master/2.%20Apartment%20price%20correlation%20between%20characteristics/2.%20Apartment%20price%20correlation%20between%20characteristics.ipynb#5)
+[Ссылка на Jupyter notebook](https://nbviewer.jupyter.org/github/makoloff/yandex_projects_2020/blob/master/2.%20Apartment%20price%20correlation%20between%20characteristics/2.%20Apartment%20price%20correlation%20between%20characteristics.ipynb) 
