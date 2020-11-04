@@ -6,5 +6,5 @@
 которая оценивает способность потенциального заёмщика вернуть кредит банку.
 
 
-[ссылка на Jupyter notebook](https://nbviewer.jupyter.org/github/makoloff/yandex_projects_2020/blob/master/1.%20Bank_credit_debt/1.%20Bank_credit_debt.ipynb#7)
+[ссылка на Jupyter notebook](https://nbviewer.jupyter.org/github/makoloff/yandex_projects_2020/blob/master/1.%20Bank_credit_debt/1.%20Bank_credit_debt.ipynb) 
 
