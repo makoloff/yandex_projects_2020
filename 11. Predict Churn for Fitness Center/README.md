@@ -17,4 +17,4 @@
 - метод кластеризации KMeans и построение дендрограммы
 - библиотеки визуализации Plotly, Matplotlib
 
-[Ссылка на Jupyter notebook](https://nbviewer.jupyter.org/github/makoloff/yandex_projects_2020/blob/master/11.%20Predict%20Churn%20for%20Fitness%20Center/Predict_Churn_clustering_for_Fitness_center.ipynb)
+[Ссылка на Jupyter notebook](https://nbviewer.jupyter.org/github/makoloff/yandex_projects_2020/blob/master/11.%20Predict%20Churn%20for%20Fitness%20Center/Predict_Churn_clustering_for_Fitness_center_.ipynb)
